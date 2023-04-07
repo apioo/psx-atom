@@ -1,0 +1,22 @@
+{
+  "id": "http:\/\/localhost.com",
+  "title": "Foo has bar",
+  "updated": "2003-06-10T04:00:00Z",
+  "entry": [
+    {
+      "author": [
+        {
+          "name": "foobar",
+          "uri": "http:\/\/foo.com",
+          "email": "foo@bar.com"
+        }
+      ],
+      "content": {
+        "content": "foobar"
+      },
+      "id": "http:\/\/localhost.com#1",
+      "published": "2003-06-10T04:00:00Z",
+      "title": "Star City"
+    }
+  ]
+}
